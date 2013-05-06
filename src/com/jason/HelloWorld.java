@@ -9,4 +9,13 @@ public class HelloWorld {
 		System.out.println("Hello World");
 	}
 
+	/**
+	 * 
+	 * @param a
+	 * @param b
+	 */
+	public static void add(int a,int b){
+		int c = a+ b;
+	}
+	
 }
